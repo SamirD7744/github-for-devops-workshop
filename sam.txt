@@ -1,0 +1,10 @@
+1 try . "c:\Users\samisuni\AppData\Local\Programs\Microsoft VS Code\110a328ea5\resources\app\out\vs\workbench\co...
+   2 & C:\Users\samisuni\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Devops/github-for-devops-workshop/1tes...
+   3 git push -u origin main                                                                                            
+   4 gh auth status                                                                                                     
+   5 git push -u origin main                                                                                            
+   6 clear 
+   add this
+   hello
+
+   
